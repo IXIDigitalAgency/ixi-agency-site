@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
 import '../styles/globals.css'
-import '../styles/legacy.css'
 import Header from '../components/layout/Header'   // ← fix percorso
 import Footer from '../components/layout/Footer'
 
